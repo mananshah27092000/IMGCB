@@ -1,3 +1,8 @@
+% Reference:
+% School of Mathematics and Statistics,Sydney, research paper:
+% http://www.maths.usyd.edu.au/u/olver/teaching/Computation/ExampleProject.pdf
+
+
 % creating DCT Matrix
 T=zeros(8,8);
 T(1,:)=ones(1,8)/sqrt(8);
